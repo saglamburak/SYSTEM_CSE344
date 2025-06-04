@@ -1,0 +1,135 @@
+2025-05-31 22:11:36 - [INFO] Sunucu kaynakları ve semaforlar başlatıldı.
+2025-05-31 22:11:36 - [INFO] Dosya transfer worker thread 0 başlatıldı (joinable).
+2025-05-31 22:11:36 - [INFO] Dosya transfer worker thread 1 başlatıldı (joinable).
+2025-05-31 22:11:36 - [INFO] Sunucu soketi (FD: 4) oluşturuldu.
+2025-05-31 22:11:36 - [INFO] Soket 34567 portuna bağlandı.
+2025-05-31 22:11:36 - [INFO] Sunucu 34567 portunda dinlemede...
+2025-05-31 22:11:36 - [INFO] Dosya Worker Thread #1 başlatıldı ve işlem bekliyor.
+2025-05-31 22:11:36 - [INFO] Dosya Worker Thread #0 başlatıldı ve işlem bekliyor.
+2025-05-31 22:11:39 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34896 (Slot: 0, FD: 5)
+2025-05-31 22:11:40 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34900 (Slot: 1, FD: 6)
+2025-05-31 22:11:40 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34904 (Slot: 2, FD: 7)
+2025-05-31 22:11:41 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34918 (Slot: 3, FD: 8)
+2025-05-31 22:11:41 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34930 (Slot: 4, FD: 9)
+2025-05-31 22:11:42 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34940 (Slot: 5, FD: 10)
+2025-05-31 22:11:42 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34956 (Slot: 6, FD: 11)
+2025-05-31 22:11:43 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34960 (Slot: 7, FD: 12)
+2025-05-31 22:11:43 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34974 (Slot: 8, FD: 13)
+2025-05-31 22:11:44 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:34990 (Slot: 9, FD: 14)
+2025-05-31 22:11:44 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:35006 (Slot: 10, FD: 15)
+2025-05-31 22:11:45 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:35014 (Slot: 11, FD: 16)
+2025-05-31 22:11:45 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:35024 (Slot: 12, FD: 17)
+2025-05-31 22:11:46 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:35028 (Slot: 13, FD: 18)
+2025-05-31 22:11:46 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:53980 (Slot: 14, FD: 19)
+2025-05-31 22:11:47 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:53984 (Slot: 15, FD: 20)
+2025-05-31 22:11:47 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:53986 (Slot: 16, FD: 21)
+2025-05-31 22:11:48 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:53988 (Slot: 17, FD: 22)
+2025-05-31 22:11:48 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:53990 (Slot: 18, FD: 23)
+2025-05-31 22:11:49 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:53994 (Slot: 19, FD: 24)
+2025-05-31 22:11:49 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54006 (Slot: 20, FD: 25)
+2025-05-31 22:11:50 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54012 (Slot: 21, FD: 26)
+2025-05-31 22:11:50 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54026 (Slot: 22, FD: 27)
+2025-05-31 22:11:51 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54042 (Slot: 23, FD: 28)
+2025-05-31 22:11:51 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54046 (Slot: 24, FD: 29)
+2025-05-31 22:11:52 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54048 (Slot: 25, FD: 30)
+2025-05-31 22:11:52 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54056 (Slot: 26, FD: 31)
+2025-05-31 22:11:53 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54058 (Slot: 27, FD: 32)
+2025-05-31 22:11:53 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54070 (Slot: 28, FD: 33)
+2025-05-31 22:11:54 - [DEBUG] Geçici bağlantı kabul edildi: 127.0.0.1:54082 (Slot: 29, FD: 34)
+2025-05-31 22:11:58 - [LOGIN] user 'brk' connected from 127.0.0.1
+2025-05-31 22:12:04 - [REJECTED] Duplicate username attempted: brk (IP: 127.0.0.1, Slot: 28)
+2025-05-31 22:12:09 - [LOGIN] user 'brk1' connected from 127.0.0.1
+2025-05-31 22:12:26 - [LOGIN] user 'brk2' connected from 127.0.0.1
+2025-05-31 22:12:33 - [LOGIN] user 'brk3' connected from 127.0.0.1
+2025-05-31 22:12:38 - [LOGIN] user 'brk4' connected from 127.0.0.1
+2025-05-31 22:12:50 - [LOGIN] user 'brk5' connected from 127.0.0.1
+2025-05-31 22:12:53 - [LOGIN] user 'brk6' connected from 127.0.0.1
+2025-05-31 22:12:55 - [LOGIN] user 'brk7' connected from 127.0.0.1
+2025-05-31 22:12:58 - [LOGIN] user 'brk8' connected from 127.0.0.1
+2025-05-31 22:13:02 - [LOGIN] user 'brk9' connected from 127.0.0.1
+2025-05-31 22:13:06 - [LOGIN] user 'brk10' connected from 127.0.0.1
+2025-05-31 22:13:10 - [LOGIN] user 'brk11' connected from 127.0.0.1
+2025-05-31 22:13:13 - [LOGIN] user 'brk12' connected from 127.0.0.1
+2025-05-31 22:13:16 - [LOGIN] user 'brk13' connected from 127.0.0.1
+2025-05-31 22:13:19 - [LOGIN] user 'brk14' connected from 127.0.0.1
+2025-05-31 22:13:22 - [LOGIN] user 'brk15' connected from 127.0.0.1
+2025-05-31 22:13:25 - [LOGIN] user 'brk16' connected from 127.0.0.1
+2025-05-31 22:13:29 - [LOGIN] user 'brk17' connected from 127.0.0.1
+2025-05-31 22:13:34 - [LOGIN] user 'brk18' connected from 127.0.0.1
+2025-05-31 22:13:39 - [LOGIN] user 'brk20' connected from 127.0.0.1
+2025-05-31 22:13:42 - [LOGIN] user 'brk21' connected from 127.0.0.1
+2025-05-31 22:13:46 - [LOGIN] user 'brk22' connected from 127.0.0.1
+2025-05-31 22:13:49 - [LOGIN] user 'brk23' connected from 127.0.0.1
+2025-05-31 22:13:53 - [LOGIN] user 'brk24' connected from 127.0.0.1
+2025-05-31 22:14:16 - [WARN] Kullanıcı adı alma sırasında bağlantı kesildi/hata (FD: 5, IP: 127.0.0.1, Slot: 0)
+2025-05-31 22:15:09 - [INFO] İstemci 'brk12' (FD: 22) bağlantıyı kapattı (recv 0).
+2025-05-31 22:15:09 - [DISCONNECT] user 'brk12' lost connection. Cleaned up resources.
+2025-05-31 22:15:09 - [DEBUG] handle_client thread for slot 17 (User: brk12) sonlanıyor.
+2025-05-31 22:20:09 - [COMMAND] brk13 initiated file transfer to brk7 (file: myimage.jpg)
+2025-05-31 22:20:09 - [FILE-QUEUE] Upload 'myimage.jpg' from brk13 added to queue. Queue size: 1
+2025-05-31 22:20:09 - [FILE] 'myimage.jpg' from user 'brk13' started upload after 0 seconds in queue.
+2025-05-31 22:20:09 - [FILE-WORKER] [W#1] 'myimage.jpg' dosyasının 'brk13' kullanıcısından 'brk7' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:20:09 - [DEBUG] Klasör oluşturuldu: 'server_files/brk7'
+2025-05-31 22:20:10 - [SEND FILE] 'myimage.jpg' sent from brk13 to brk7 (success)
+2025-05-31 22:20:11 - [COMMAND] brk18 initiated file transfer to brk (file: myimage.jpg)
+2025-05-31 22:20:11 - [FILE-QUEUE] Upload 'myimage.jpg' from brk18 added to queue. Queue size: 1
+2025-05-31 22:20:11 - [FILE] 'myimage.jpg' from user 'brk18' started upload after 0 seconds in queue.
+2025-05-31 22:20:11 - [FILE-WORKER] [W#0] 'myimage.jpg' dosyasının 'brk18' kullanıcısından 'brk' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:20:11 - [DEBUG] Klasör oluşturuldu: 'server_files/brk'
+2025-05-31 22:20:12 - [SEND FILE] 'myimage.jpg' sent from brk18 to brk (success)
+2025-05-31 22:20:13 - [COMMAND] brk17 initiated file transfer to brk (file: myimage.jpg)
+2025-05-31 22:20:13 - [FILE-QUEUE] Upload 'myimage.jpg' from brk17 added to queue. Queue size: 1
+2025-05-31 22:20:13 - [FILE] 'myimage.jpg' from user 'brk17' started upload after 0 seconds in queue.
+2025-05-31 22:20:13 - [FILE-WORKER] [W#1] 'myimage.jpg' dosyasının 'brk17' kullanıcısından 'brk' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:20:13 - [FILE] Conflict: 'myimage.jpg' -> renamed 'myimage_1.jpg'
+2025-05-31 22:20:14 - [SEND FILE] 'myimage.jpg' sent from brk17 to brk (success)
+2025-05-31 22:20:15 - [COMMAND] brk16 initiated file transfer to brk4 (file: myimage.jpg)
+2025-05-31 22:20:15 - [FILE-QUEUE] Upload 'myimage.jpg' from brk16 added to queue. Queue size: 1
+2025-05-31 22:20:15 - [FILE] 'myimage.jpg' from user 'brk16' started upload after 0 seconds in queue.
+2025-05-31 22:20:15 - [FILE-WORKER] [W#0] 'myimage.jpg' dosyasının 'brk16' kullanıcısından 'brk4' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:20:15 - [DEBUG] Klasör oluşturuldu: 'server_files/brk4'
+2025-05-31 22:20:16 - [SEND FILE] 'myimage.jpg' sent from brk16 to brk4 (success)
+2025-05-31 22:20:16 - [COMMAND] brk15 initiated file transfer to brk5 (file: myimage.jpg)
+2025-05-31 22:20:16 - [FILE-QUEUE] Upload 'myimage.jpg' from brk15 added to queue. Queue size: 1
+2025-05-31 22:20:16 - [FILE] 'myimage.jpg' from user 'brk15' started upload after 0 seconds in queue.
+2025-05-31 22:20:16 - [FILE-WORKER] [W#1] 'myimage.jpg' dosyasının 'brk15' kullanıcısından 'brk5' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:20:16 - [DEBUG] Klasör oluşturuldu: 'server_files/brk5'
+2025-05-31 22:20:17 - [SEND FILE] 'myimage.jpg' sent from brk15 to brk5 (success)
+2025-05-31 22:20:18 - [COMMAND] brk1 initiated file transfer to brk6 (file: myimage.jpg)
+2025-05-31 22:20:18 - [FILE-QUEUE] Upload 'myimage.jpg' from brk1 added to queue. Queue size: 1
+2025-05-31 22:20:18 - [FILE] 'myimage.jpg' from user 'brk1' started upload after 0 seconds in queue.
+2025-05-31 22:20:18 - [FILE-WORKER] [W#0] 'myimage.jpg' dosyasının 'brk1' kullanıcısından 'brk6' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:20:18 - [DEBUG] Klasör oluşturuldu: 'server_files/brk6'
+2025-05-31 22:20:19 - [SEND FILE] 'myimage.jpg' sent from brk1 to brk6 (success)
+2025-05-31 22:21:01 - [INFO] İstemci 'brk16' (FD: 18) bağlantıyı kapattı (recv 0).
+2025-05-31 22:21:01 - [DISCONNECT] user 'brk16' lost connection. Cleaned up resources.
+2025-05-31 22:21:01 - [DEBUG] handle_client thread for slot 13 (User: brk16) sonlanıyor.
+2025-05-31 22:22:28 - [INFO] Yeni oda oluşturuldu: 'oda1' (Room Idx: 0)
+2025-05-31 22:22:28 - [JOIN] Kullanıcı 'brk15' (Slot: 14) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 1
+2025-05-31 22:22:28 - [JOIN] user 'brk15' joined room 'oda1'
+2025-05-31 22:22:38 - [JOIN] Kullanıcı 'brk1' (Slot: 28) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 2
+2025-05-31 22:22:38 - [JOIN] user 'brk1' joined room 'oda1'
+2025-05-31 22:22:47 - [JOIN] Kullanıcı 'brk18' (Slot: 11) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 3
+2025-05-31 22:22:47 - [JOIN] user 'brk18' joined room 'oda1'
+2025-05-31 22:22:53 - [JOIN] Kullanıcı 'brk17' (Slot: 12) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 4
+2025-05-31 22:22:53 - [JOIN] user 'brk17' joined room 'oda1'
+2025-05-31 22:23:07 - [BROADCAST] user 'brk17': hello huys (to room 'oda1')
+2025-05-31 22:25:32 - [COMMAND] brk18 initiated file transfer to brk3 (file: myimage.jpg)
+2025-05-31 22:25:32 - [FILE-QUEUE] Upload 'myimage.jpg' from brk18 added to queue. Queue size: 1
+2025-05-31 22:25:32 - [FILE] 'myimage.jpg' from user 'brk18' started upload after 0 seconds in queue.
+2025-05-31 22:25:32 - [FILE-WORKER] [W#1] 'myimage.jpg' dosyasının 'brk18' kullanıcısından 'brk3' kullanıcısına transferi işleniyor (Boyut: 0)...
+2025-05-31 22:25:32 - [DEBUG] Klasör oluşturuldu: 'server_files/brk3'
+2025-05-31 22:25:33 - [SEND FILE] 'myimage.jpg' sent from brk18 to brk3 (success)
+2025-05-31 22:26:37 - [ROOM] Kullanıcı 'brk15' (Slot: 14) 'oda1' odasından (listeden) çıkarıldı. Odadaki kullanıcı sayısı: 3
+2025-05-31 22:26:45 - [JOIN] Kullanıcı 'brk15' (Slot: 14) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 4
+2025-05-31 22:26:45 - [JOIN] user 'brk15' joined room 'oda1'
+2025-05-31 22:26:52 - [ROOM] Kullanıcı 'brk15' (Slot: 14) 'oda1' odasından (listeden) çıkarıldı. Odadaki kullanıcı sayısı: 3
+2025-05-31 22:26:52 - [INFO] Yeni oda oluşturuldu: 'oda7' (Room Idx: 1)
+2025-05-31 22:26:52 - [JOIN] Kullanıcı 'brk15' (Slot: 14) 'oda7' odasına katıldı. Odadaki kullanıcı sayısı: 1
+2025-05-31 22:26:52 - [JOIN] user 'brk15' joined room 'oda7'
+2025-05-31 22:28:22 - [JOIN] Kullanıcı 'brk13' (Slot: 16) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 4
+2025-05-31 22:28:22 - [JOIN] user 'brk13' joined room 'oda1'
+2025-05-31 22:28:36 - [BROADCAST] user 'brk13': Helloguys (to room 'oda1')
+2025-05-31 22:28:54 - [ROOM] Kullanıcı 'brk15' (Slot: 14) 'oda7' odasından (listeden) çıkarıldı. Odadaki kullanıcı sayısı: 0
+2025-05-31 22:28:54 - [JOIN] Kullanıcı 'brk15' (Slot: 14) 'oda1' odasına katıldı. Odadaki kullanıcı sayısı: 5
+2025-05-31 22:28:54 - [JOIN] user 'brk15' joined room 'oda1'
